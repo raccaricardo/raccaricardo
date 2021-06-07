@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 #### What I'm working currently at/as
 -
 
+### In what I've knowledge
+- Backend
+   - Node.js
+   - C#
+   - Java
+   - Javascript
 ### What would I love to learn
 - React Native
 - Kotlin
