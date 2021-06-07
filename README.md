@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ---
 #### *Backend Developer*
++ [My CV](enlace)
+
 ---
 
 - 🔭 I’m currently looking for job
