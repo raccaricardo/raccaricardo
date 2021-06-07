@@ -15,8 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
 ## Hi, I'm Ricardo Racca! 👋
 
 ---
-*Software Developer *
+#### *Software Developer*
+---
+#### What I'm working currently at/as
+
+
+### what would I love to learn
+
+### Where to find me
++ [Twitter](http://www.twitter.com)
++ [LinkedIn](http://www.linkedin.com)
+
+
+---
+- 🔭 I’m currently looking for job
+- 🌱 I’m currently learning node.js and react
+- ⚡ Fun fact: gimme chamomile tea with honey and we'll be great friends
+ 
