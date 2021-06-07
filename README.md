@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### what would I love to learn
 
 ### Where to find me
-+ [Twitter](http://www.twitter.com)
-+ [LinkedIn](http://www.linkedin.com)
++ [Twitter](https://twitter.com/Ricardo63335928)
++ [LinkedIn](https://www.linkedin.com/in/ricardoracca/)
 
 
 
