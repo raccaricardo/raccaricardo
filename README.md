@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Ricardo Racca! 👋
 
 ---
-#### *Software Developer*
+#### *Backend Developer*
 ---
 
 - 🔭 I’m currently looking for job
@@ -35,6 +35,11 @@ Here are some ideas to get you started:
    - C#
    - Java
    - Javascript
+- Frontend
+   - Javascript
+   - CSS 
+   - React
+   
 ### What would I love to learn
 - React Native
 - Kotlin
