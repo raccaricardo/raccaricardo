@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 ---
 
 #### What I'm working currently at/as
+-
 
-
-### what would I love to learn
-
+### What would I love to learn
+- React Native
+- Kotlin
 ### Where to find me
 + [Twitter](https://twitter.com/Ricardo63335928)
 + [LinkedIn](https://www.linkedin.com/in/ricardoracca/)
