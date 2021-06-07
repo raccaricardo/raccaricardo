@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 ---
 #### *Software Developer*
 ---
+
+- 🔭 I’m currently looking for job
+- 🌱 I’m currently learning node.js and react
+- ⚡ Fun fact: gimme chamomile tea with honey and we'll be great friends
+---
+
 #### What I'm working currently at/as
 
 
@@ -30,8 +36,5 @@ Here are some ideas to get you started:
 + [LinkedIn](http://www.linkedin.com)
 
 
----
-- 🔭 I’m currently looking for job
-- 🌱 I’m currently learning node.js and react
-- ⚡ Fun fact: gimme chamomile tea with honey and we'll be great friends
+
  
