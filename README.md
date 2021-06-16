@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for job
 - 🌱 I’m currently learning node.js and react
+<!--
 - ⚡ Fun fact: gimme chamomile tea with honey and we'll be great friends
+-->
 ---
 
 #### What I'm working currently at/as
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
 ### What would I love to learn
 - React Native
 - Kotlin
+- Python
 ### Where to find me
 + [Twitter](https://twitter.com/Ricardo63335928)
 + [LinkedIn](https://www.linkedin.com/in/ricardoracca/)
