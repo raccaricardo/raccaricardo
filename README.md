@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 #### *Backend Developer*
-+ [My CV](enlace)
++ [My CV](https://drive.google.com/file/d/1U44q8dsgy6zaNOJ78oSCGzm57NFiBxti/view?usp=sharing)
 
 ---
 
