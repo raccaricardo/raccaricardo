@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 
 ---
 #### *Backend Developer*
-+ [My CV](https://drive.google.com/file/d/1U44q8dsgy6zaNOJ78oSCGzm57NFiBxti/view?usp=sharing)
++ [My CV](https://drive.google.com/file/d/1o6xlxQ1TA-gaA0-lzktGGATXBKRq7iA1/view?usp=sharing)
 
 ---
 
 - 🔭 I’m currently looking for job
-- 🌱 I’m currently learning node.js and react
+- 🌱 I’m Node developer 
+- I'm learning React
 <!--
-- ⚡ Fun fact: gimme chamomile tea with honey and we'll be great friends
+- ⚡ Fun fact: gimme coffe or green tea and we'll be great friends
 -->
 ---
 
@@ -35,12 +36,13 @@ Here are some ideas to get you started:
 
 ### In what I've knowledge
 - Backend
-   - Node.js
+   - javascript - Node.js
    - C#
    - Java
-   - Javascript
+   - 
 - Frontend
    - Javascript
+   - Typescript
    - CSS 
    - React
    
@@ -48,8 +50,8 @@ Here are some ideas to get you started:
 - React Native
 - Kotlin
 - Python
+- Rust
 ### Where to find me
-+ [Twitter](https://twitter.com/Ricardo63335928)
 + [LinkedIn](https://www.linkedin.com/in/ricardoracca/)
 
 
