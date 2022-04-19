@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-## Hi, I'm Ricardo Racca! 👋
+## Hi, my name is Ricardo! 👋
 
 ---
 #### *Backend Developer*
