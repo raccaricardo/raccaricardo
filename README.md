@@ -39,9 +39,11 @@ Here are some ideas to get you started:
    - javascript - Node.js
    - C#
    - Java
-   - 
+   - Mysql
+   - Mongodb
+   
+   
 - Frontend
-   - Javascript
    - Typescript
    - CSS 
    - React
