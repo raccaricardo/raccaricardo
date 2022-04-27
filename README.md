@@ -18,21 +18,26 @@ Here are some ideas to get you started:
 ## Hi, my name is Ricardo! 👋
 
 ---
+#### What I'm working currently at/as
+- I am developing an ecommerce in .net
+
+
+---
 #### *Backend Developer*
-+ [My CV](https://drive.google.com/file/d/1o6xlxQ1TA-gaA0-lzktGGATXBKRq7iA1/view?usp=sharing)
++ [My CV](https://drive.google.com/file/d/1UmlDA7bGmhh4y71yNpFx_Fv9Jeu2o3Ss/view?usp=sharing)
 
 ---
 
+
 - 🔭 I’m currently looking for job
-- 🌱 I’m Node developer 
+- 🌱 I’m .NET and Node developer 
 - I'm learning React
 <!--
 - ⚡ Fun fact: gimme coffe or green tea and we'll be great friends
 -->
 ---
 
-#### What I'm working currently at/as
--
+
 
 ### In what I've knowledge
 - Backend
