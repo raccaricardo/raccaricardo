@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ---
 #### What I'm working currently at/as
+- I'm learning english
 - I am developing an ecommerce in .net
 
 
