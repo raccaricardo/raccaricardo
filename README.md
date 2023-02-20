@@ -17,22 +17,24 @@ Here are some ideas to get you started:
 ---
 ## Hi, my name is Ricardo! 👋
 
----
-#### What I'm working currently at/as
-- I'm learning english
-- I am developing an ecommerce in .net
+#### I'm currently working for a company developing an ecommerce platform.
+- I am working on an ecommerce in laravel
 
+---
+#### I'm currently studying
+- English and Vue.js (o Vue) for developing an e-commerce site in my company".
 
 ---
 #### *Backend Developer*
-+ [My CV](https://drive.google.com/file/d/1IaT1ThLnCy-XEO2NATtpmUvzoyOaeI7y/view?usp=sharing)
++ [My CV](https://drive.google.com/file/d/1QTjjb9jlrP7KfWo6sq7nvDP3mbihW4zn/view?usp=share_link)
 
 ---
 
 
-- 🔭 I’m currently looking for job
-- 🌱 I’m .NET and Node developer 
+- 🔭 I’m currently working for a company
+- 🌱 I’m Laravel and Node developer 
 - I'm learning React
+
 <!--
 - ⚡ Fun fact: gimme coffe or green tea and we'll be great friends
 -->
