@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 #### *Backend Developer*
-+ [My CV](https://drive.google.com/file/d/1QTjjb9jlrP7KfWo6sq7nvDP3mbihW4zn/view?usp=share_link)
++ [My CV]([https://drive.google.com/file/d/1QTjjb9jlrP7KfWo6sq7nvDP3mbihW4zn/view?usp=share_link](https://drive.google.com/file/d/1QTjjb9jlrP7KfWo6sq7nvDP3mbihW4zn/view?usp=sharing))
 
 ---
 
